@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://personal-blog-astro-three.vercel.app/sitemap-index.xml
